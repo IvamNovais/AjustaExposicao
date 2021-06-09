@@ -1,5 +1,3 @@
-import cv2
-import AjustaExposicao
 import GetVideo
 
 def GetFrames(dir, inicio, fim):
